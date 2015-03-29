@@ -1,10 +1,10 @@
 // package metadata file for Meteor.js
 
 Package.describe({
-  name: 'twbs:bootstrap',  // http://atmospherejs.com/twbs/bootstrap
-  summary: 'The most popular front-end framework for developing responsive, mobile first projects on the web.',
+  name: 'noxan:picostrap',  // http://atmospherejs.com/noxan/picostrap
+  summary: 'A minimalistic aproach to Twitter\'s bootstrap.',
   version: '3.3.4',
-  git: 'https://github.com/twbs/bootstrap.git'
+  git: 'https://github.com/noxan/picostrap.git'
 });
 
 Package.onUse(function (api) {
@@ -16,7 +16,7 @@ Package.onUse(function (api) {
     'dist/fonts/glyphicons-halflings-regular.ttf',
     'dist/fonts/glyphicons-halflings-regular.woff',
     'dist/fonts/glyphicons-halflings-regular.woff2',
-    'dist/css/bootstrap.css',
-    'dist/js/bootstrap.js',
+    'dist/css/picostrap.css',
+    'dist/js/picostrap.js',
   ], 'client');
 });

@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "name": "picostrap",
+  "description": "A minimalistic aproach to Twitter's bootstrap.",
   "version": "3.3.4",
   "keywords": [
     "css",
@@ -12,11 +12,11 @@
     "framework",
     "web"
   ],
-  "homepage": "http://getbootstrap.com",
+  "homepage": "https://noxan.github.io/picostrap",
   "main": [
-    "less/bootstrap.less",
-    "dist/css/bootstrap.css",
-    "dist/js/bootstrap.js",
+    "less/picostrap.less",
+    "dist/css/picostrap.css",
+    "dist/js/picostrap.js",
     "dist/fonts/glyphicons-halflings-regular.eot",
     "dist/fonts/glyphicons-halflings-regular.svg",
     "dist/fonts/glyphicons-halflings-regular.ttf",

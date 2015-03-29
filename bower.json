@@ -1,7 +1,7 @@
 {
   "name": "picostrap",
   "description": "A minimalistic aproach to Twitter's bootstrap.",
-  "version": "3.3.4-pico",
+  "version": "3.3.4",
   "keywords": [
     "css",
     "js",
